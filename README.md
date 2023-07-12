@@ -1,1 +1,1 @@
-# farhanriz.gihub.io
+# farhanriz.github.io
